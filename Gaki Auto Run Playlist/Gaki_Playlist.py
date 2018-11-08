@@ -1,5 +1,5 @@
 # Gaki Playlist Library
-
+# Author: JenerikMind
 ### The reason it's not all complete is because I started making it when I was...
 # a lot less than sober-ish.  Came back to it the next day and just adjusted
 # a bit to make it less rigid.  Feel free to make any improvements you want
