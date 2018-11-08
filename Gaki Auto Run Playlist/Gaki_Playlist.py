@@ -36,7 +36,13 @@ hotel = [{"https://www.dailymotion.com/video/k58a7ceNyy62CA2KCZH": 37},
 edf = [{"http://www.dailymotion.com/video/k1QGKN4X16w44t5anm0": 31},
        {"http://www.dailymotion.com/video/k7c2Ss7M9HIRok5cwUA": 31},
        {"http://www.dailymotion.com/video/k1x0RiOPXvodMH5N4q4": 31},
-       {"http://www.dailymotion.com/video/k7CX32xnxVCXkF5WeJ2": 31}]
+       {"http://www.dailymotion.com/video/k7CX32xnxVCXkF5WeJ2": 31},
+       {"http://www.dailymotion.com/video/k6QssvxVSZoFEf5Wi9K": 31},
+       {"http://www.dailymotion.com/video/k4DfW9TyDLhrkU5XO5w": 31},
+       {"http://www.dailymotion.com/video/k2ApEfaYov8Is45XUiB": 31},
+       {"http://www.dailymotion.com/video/k5insAXWxwr6GH5Zl7c": 31},
+       {"http://www.dailymotion.com/video/k5jkJMdDbakRs15ZFGu": 31},
+       {"http://www.dailymotion.com/video/kTAmAfinaflrDm5ZJy2": 31}]
 
 # It's SCIENCE!!!
 science = [{"http://www.dailymotion.com/video/k6a0qmx0ju3Q1dlnX8h": 30.5},
