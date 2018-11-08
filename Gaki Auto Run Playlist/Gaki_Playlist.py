@@ -10,7 +10,7 @@
 # you can add your own playlist, or just update mine, NO SCRIPTING KNOWLEDGE
 # NEEDED.  
 #
-# name_of_playlist = [{"LINK": duration of video}]
+# name_of_playlist_in_lowercase = [{"LINK": duration of video}]
 ### 
 
 # Yugawara
@@ -51,6 +51,7 @@ science = [{"http://www.dailymotion.com/video/k6a0qmx0ju3Q1dlnX8h": 30.5},
            {"http://www.dailymotion.com/video/k43pyEWaaRUNtrnrYtg": 30.5}]
 
 # Because it's not racist if it's portraying a character... LOLOLLLLL
+# American Police
 apo = [{"https://www.dailymotion.com/video/k36ljQOYYCFIgMq35AC": 30.5},
      {"https://www.dailymotion.com/video/k5ywGWU9k8KWrMq94ML": 30.5}, 
      {"https://www.dailymotion.com/video/k5mpry0NY50X2mq942C": 30.5}, 

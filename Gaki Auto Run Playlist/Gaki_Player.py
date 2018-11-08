@@ -38,13 +38,13 @@ def play(batsu_game_array, episode=0):
 ### Start the UI(ish) Section ###
 
 def create_titles_list():
-    playlist = open("Gaki_Playlist.py")
+    playlist = open("Gaki_Playlist.py") # open the playlist file
     titles = []
-    playlist_text = playlist.readlines()
+    playlist_text = playlist.readlines()# read the lines
 
     for line in playlist_text:
         if " = " in line:
-            titles.append(line)
+            titles.append(line) # only add lines that have a " = "
 
     titles.pop(0) # to remove the demo line in the comments
     i = 0         # int used to overwrite array line
@@ -60,8 +60,13 @@ def create_titles_list():
 def start():
     titles = create_titles_list()
     print("Available playlists : {} ".format(titles))
+
+    # The user's choice is set to lowercase to keep it simple
     choice = input("Which would you like to see:  ").lower()
 
+    # To add your own list to the UI picker make an elif
+    # before the else statement and just follow along, replacing the
+    # current title with your own title
     if choice == "yugawara":
         play(yugawara)
     elif choice == "hotel":
